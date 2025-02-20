@@ -3,14 +3,29 @@
 Lahbari ismail/Lahbari ismail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tumelo+Mmethi;Front-End+Developer Intern;Passionate+about:;1)+Web+Development;2)+UI/UX+Design" alt="Software Engineering Student"></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=000000&size=30&center=true&vCenter=true&width=450&lines=I'm+Tumelo+Mmethi;Front-End+Developer+Intern;Passionate+about:;1)+Web+Development;2)+UI/UX+Design" alt="Junior Web Developer">
+    </a>
 </div>
 
+
 <div align="center">
+<h1 align="left">About Me</h1>
+
+###
+
+<img align="right" height="400" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif"  />
+
+###
+
+<p align="left">
+Innovative and passionate Information Technology Intern specializing in Multimedia, currently interning at ICEP where I’m building a dynamic online platform designed to equip student mentors and mentees with the tools they need to connect, collaborate, and thrive. I have a strong foundation in front-end development, UI/UX design, and a bit of back-end expertise, I thrive on bridging gaps through user-centered design and functional tools.
+</p>
 
   <br />
 
@@ -27,7 +42,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 	
 	
- <img src="https://komarev.com/ghpvc/?username=ismail-la&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-la" /> </p>
+ 
  
  
 ## 🏆 GitHub Trophies
