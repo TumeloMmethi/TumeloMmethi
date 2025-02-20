@@ -55,7 +55,7 @@ Innovative and passionate Information Technology Intern specializing in Multimed
 
 ###
 
-<h2 align="left">Testing Frameworks & Tools</h2>
+<h2 align="left">Frameworks & Tools</h2>
 
 ###
 
