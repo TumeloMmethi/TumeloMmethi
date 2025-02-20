@@ -45,37 +45,24 @@ Innovative and passionate Information Technology Intern specializing in Multimed
  
  
  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ismail-la&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
-</br>
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
-<h2>:zany_face: Joke of the day</h2>
-<details>
-    <summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
   
 
- - 📫 How to reach me **lahbariismail@gmail.com**									    
+ - 📫 How to reach me **mmethitumelo74@gmail.com**									    
 	<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href=https://github.com/ismail-la/ismail-la/blob/main/github-metrics.svg
 
 
 <a href="https://twitter.com/MrLahbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sali46427585?" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/ismail-lahbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ismail-lahbari" height="30" width="40" /></a>
-<a href="https://discord.com/users/1075026401536774184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4933" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/ismail-lahbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tumelo-mmethi-38b797211" height="30" width="40" /></a>
+<!-- <a href="https://discord.com/users/1075026401536774184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4933" height="30" width="40" /></a> -->
 </p>									    
-<a href="https://api.whatsapp.com/send?phone=+212684830200" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>										    
+<a href="https://api.whatsapp.com/send?phone=+27739197797" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>										    
 
 			 
 <h1 align="center">languages and tools:</h1>
