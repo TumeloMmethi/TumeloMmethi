@@ -3,12 +3,11 @@ TumeloMmethi/TumeloMmethi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=000000&size=30&center=true&vCenter=true&width=450&lines=I'm+Tumelo+Mmethi;Front-End+Developer+Intern;Passionate+about:;1)+Web+Development;2)+UI/UX+Design" alt="Junior Web Developer">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=000000&size=30&center=true&vCenter=true&width=450&lines=Hi,+I'm+Tumelo+Mmethi;Front-End+Developer+Intern;I'm+Passionate+about:;1)+Web+Development;2)+UI/UX+Design" alt="Junior Web Developer">
     </a>
 </div>
 
