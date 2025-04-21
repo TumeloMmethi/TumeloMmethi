@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=000000&size=30&center=true&vCenter=true&width=450&lines=Hi,+I'm+Tumelo+Mmethi;Front-End+Developer+Intern;I'm+Passionate+about:;1)+Web+Development;2)+UI/UX+Design" alt="Junior Web Developer">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=000000&size=30&center=true&vCenter=true&width=450&lines=Hi,+I'm+Tumelo+Mmethi;Front-End+Developer+Intern;I'm+Passionate+about:;1)+Web+Development;2)+UI/UX+Development" alt="Junior Web Developer">
     </a>
 </div>
 
