@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <p align="left">
-Innovative and passionate Information Technology Intern specializing in Multimedia, currently interning at ICEP where I’m building a dynamic online platform designed to equip student mentors and mentees with the tools they need to connect, collaborate, and thrive. I have a strong foundation in front-end development, UI/UX design, and a bit of back-end expertise, I thrive on bridging gaps through user-centered design and functional tools.
+Innovative and passionate Information Technology Intern with a strong foundation in front-end development, UI/UX design, and a growing understanding of back-end technologies. I am driven by a desire to create functional, user-centered digital solutions that bridge gaps and enhance experiences. With a keen eye for detail and a collaborative mindset, I enjoy tackling complex challenges, turning ideas into intuitive applications, and continuously learning to expand my technical and creative skill set.
 </p>
 
   <br />
